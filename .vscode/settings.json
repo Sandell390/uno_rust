@@ -1,0 +1,8 @@
+{
+    "rust-analyzer.linkedProjects": [
+        "./uno_client/Cargo.toml",
+        "./uno_lib/Cargo.toml",
+        "./uno_server/Cargo.toml",
+
+    ]
+}
